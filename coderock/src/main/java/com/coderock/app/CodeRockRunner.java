@@ -24,7 +24,7 @@ public class CodeRockRunner implements CommandLineRunner{
 	}
 	private Employee getEmployee() {
 		Employee employee= new  Employee();
-		employee.setName("Sean Murphy le");
+		employee.setName("Sean Murphy nmantes");
 		employee.setSalary(80000.00);
 		employee.setDoj(new Date());
 		return employee;
